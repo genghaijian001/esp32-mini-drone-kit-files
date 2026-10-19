@@ -5,7 +5,7 @@
 ## 下载
 
 - [资料、源码、固件和工具（ZIP，约 50 MB）](https://github.com/genghaijian001/esp32-mini-drone-kit-files/releases/download/v1.0.0/esp32-mini-drone-docs-tools-source.zip)
-- [中文使用教程视频（约 1.5 GB）](https://github.com/genghaijian001/esp32-mini-drone-kit-files/releases/download/v1.0.0/ESP32%E8%BF%B7%E4%BD%A0%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%A5%97%E4%BB%B6%E6%89%8B%E6%8A%8A%E6%89%8B%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.mp4)
+- [中文使用教程视频（约 1.5 GB）](https://github.com/genghaijian001/esp32-mini-drone-kit-files/releases/download/v1.0.0/ESP32.mp4)
 - [英文教程视频上半段（约 1.5 GB）](https://github.com/genghaijian001/esp32-mini-drone-kit-files/releases/download/v1.0.0/english-tutorial-part-00.mp4)
 - [英文教程视频下半段（约 1.2 GB）](https://github.com/genghaijian001/esp32-mini-drone-kit-files/releases/download/v1.0.0/english-tutorial-part-01.mp4)
 - [SHA-256 校验值](https://github.com/genghaijian001/esp32-mini-drone-kit-files/releases/download/v1.0.0/SHA256SUMS.txt)
